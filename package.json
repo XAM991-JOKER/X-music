@@ -2,7 +2,7 @@
   "name": "x-music",
   "version": "1.0.0",
   "description": "",
-  "main": "dndn.js",
+  "main": "bot.js",
   "dependencies": {
     "discord.js": "^11.4.2",
     "ffmpeg": "^0.0.4",
