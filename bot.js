@@ -1,20 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @XAM991-JOKER Sign out
-0
-0 0 XAM991-JOKER/xam991
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-xam991/bot.js
-7f5cc29  13 hours ago
-@XAM991-JOKER XAM991-JOKER Create bot.js
-     
-258 lines (239 sloc)  11.7 KB
 const Discord = require("discord.js");
 const ytdl = require("ytdl-core");
 const { Client, Util } = require('discord.js');
@@ -270,17 +254,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
    }
    }); 
    
-	client.login(process.env.BOT_TOKEN); 
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
+client.login(process.env.BOT_TOKEN); 
